@@ -4,7 +4,7 @@ Skill Garden Coaches users to enforce "Get Better Mindset". For example: Career 
 
 ## Conseptual model
 
-![central ideas|(diagrams/skill-metafors.png)
+![central ideas](diagrams/skill-metafors.png)
 
 ## Tools
 
