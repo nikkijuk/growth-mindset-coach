@@ -1,6 +1,6 @@
 # Skill Garden
 
-Skill Garden Coaches users to enforce "Get Better" Mindset
+Skill Garden Coaches users to enforce "Get Better Mindset". For example: Career on information technology is seen as set of learning challenges.
 
 ## Tools
 
