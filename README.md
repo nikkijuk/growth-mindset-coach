@@ -1,6 +1,6 @@
-# Growth Mindset Coach
+# Skill Garden
 
-Growth Mindset Coach is application for everyone who wants to enforce Get Better Mindset
+Skill Garden Coaches users to enforce "Get Better" Mindset
 
 ## Tools
 
