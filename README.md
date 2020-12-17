@@ -2,7 +2,7 @@
 
 Skill Garden Coaches users to enforce "Get Better Mindset". For example: Career on information technology is seen as set of learning challenges.
 
-## Conseptual model
+## Conceptual model
 
 ![central ideas](diagrams/skill-metafors.png)
 
