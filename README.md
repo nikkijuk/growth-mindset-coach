@@ -1,6 +1,6 @@
 # Skill Garden
 
-Skill Garden Coaches users to enforce "Get Better Mindset" by setting goals, tracking progress towards them and recording them as skills or accomlishments. 
+Skill Garden Coaches users to enforce "Get Better Mindset" by setting goals, tracking progress towards them and recording them as skills or accomplishments. 
 
 Example: 
 
