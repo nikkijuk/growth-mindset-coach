@@ -4,11 +4,19 @@ Skill Garden Coaches users to enforce "Get Better Mindset" by setting goals, tra
 
 Example: 
 
-Career on information technology can be seen as set of learning challenges. Learning clannges can be modelled as goals and accomplished using tools like self paced courses. When planned activity dates (now = due date of learning task) it might be taken in to past archievements. Past achievements can be seen as inventory and short and long term plans as career goals. 
+Career on information technology can be seen as set of learning challenges. Learning challanges can be modelled as goals and accomplished using tools like self paced courses. When planned activity dates (now = due date of learning task) it might be taken in to past archievements if user confirms it done. Past achievements can be seen as inventory and short and long term plans as career goals. 
+
+Vision:
+
+This could be mobile or web system with broad user base like "everyone in world" or "any linkedin user". System could be linked to HR systems and used to facilitate careen planning and skill inventory, but it could be also used individually by single person. 
+
+CV generator for markdown template is possible extension point, which could make such system interesting for broader community.
 
 ## Conceptual model
 
 ![central ideas](diagrams/skill-metafors.png)
+
+Note: Mental accounts like "heavy rocker" or "work" are defined by user, but there might be set of defaults offered.
 
 ## Tools
 
