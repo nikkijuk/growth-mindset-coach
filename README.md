@@ -42,6 +42,10 @@ Note: Mental accounts like "heavy rocker" or "work" are defined by user, but the
 - manual sync or automatic sync
 - example: Company X has trust relationship to person Y and gets automatic synced information 
 
+### Data
+
+- GraphQl + graph data store could be ideal here 
+
 ### Code editing
 
 - Visual Studio Code
