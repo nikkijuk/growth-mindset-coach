@@ -8,9 +8,9 @@ Career on information technology can be seen as set of learning challenges. Lear
 
 Vision:
 
-This could be mobile or web system with broad user base like "everyone in world" or "any linkedin user". System could be linked to HR systems and used to facilitate careen planning and skill inventory, but it could be also used individually by single person. 
+This could be mobile or web system with broad user base like "everyone in world" or "any linkedin user". System could be linked to HR systems and used to facilitate career planning and skill inventory, but it could be also used individually by single person. 
 
-CV generator for markdown template is possible extension point, which could make such system interesting for broader community.
+CV generator with markdown template is possible extension point, which could make such system interesting for broader community.
 
 ## Conceptual model
 
