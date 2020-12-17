@@ -36,7 +36,7 @@ Note: Mental accounts like "heavy rocker" or "work" are defined by user, but the
 - auth0 as technology connecting linkedin to apps https://auth0.com/docs/connections/social/linkedin
 - aws cognito as cloud service https://aws.amazon.com/premiumsupport/knowledge-center/cognito-linkedin-auth0-social-idp/
 
-### export / import
+### export (is there need for import?)
 
 - users can sync their data with remote sources like own employer
 - manual sync or automatic sync
