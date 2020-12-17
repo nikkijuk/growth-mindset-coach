@@ -18,6 +18,10 @@ CV generator with markdown template is possible extension point, which could mak
 
 Note: Mental accounts like "heavy rocker" or "work" are defined by user, but there might be set of defaults offered.
 
+## Theory
+
+https://hbr.org/2016/01/what-having-a-growth-mindset-actually-means
+
 ## Tools
 
 ### Mobile UI & Cloud
