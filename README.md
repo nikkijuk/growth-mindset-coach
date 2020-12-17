@@ -12,9 +12,27 @@ Career on information technology can be seen as set of learning challenges. Lear
 
 ## Tools
 
-### Mobile UI
+### Mobile UI & Cloud
 
 - Flutter (= Skia + Dart)
+- Aws Amplify https://aws.amazon.com/blogs/mobile/announcing-aws-amplify-flutter-developer-preview/
+
+### mobile paas 
+
+- aws amplify & aws cognito & ..
+- example: https://github.com/nikkijuk/aws-image-gallery
+
+### user identity
+
+- Linkedin as identity provider
+- auth0 as technology connecting linkedin to apps https://auth0.com/docs/connections/social/linkedin
+- aws cognito as cloud service https://aws.amazon.com/premiumsupport/knowledge-center/cognito-linkedin-auth0-social-idp/
+
+### export / import
+
+- users can sync their data with remote sources like own employer
+- manual sync or automatic sync
+- example: Company X has trust relationship to person Y and gets automatic synced information 
 
 ### Code editing
 
@@ -25,3 +43,4 @@ Career on information technology can be seen as set of learning challenges. Lear
 
 - Draw.io
 - Plant UML
+
