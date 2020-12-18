@@ -44,11 +44,13 @@ https://hbr.org/2016/01/what-having-a-growth-mindset-actually-means
 
 - users can sync their data with remote sources like own employer
 - manual sync or automatic sync
-- example: Company X has trust relationship to person Y and gets automatic synced information 
+- example: Company X has trust relationship to person Y and provides api to receive synced information (async or sync, everything goes)
 
 ### Data
 
-- GraphQl + graph data store could be ideal here 
+- S3 with blob of json per user is simplest possible storage as data is used by single user and there's no need for ACID properties 
+- GraphQl + graph data store could also work well, but might not provide any benefits over json blob
+- relational database is not very practical here
 
 ### Code editing
 
@@ -59,4 +61,3 @@ https://hbr.org/2016/01/what-having-a-growth-mindset-actually-means
 
 - Draw.io
 - Plant UML
-
