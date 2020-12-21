@@ -52,6 +52,12 @@ https://hbr.org/2016/01/what-having-a-growth-mindset-actually-means
 - GraphQl + graph data store could also work well, but might not provide any benefits over json blob
 - relational database is not very practical here
 
+### DSL
+
+- Persons skills (inventory) and goals (plan) can be expressed using "Get Better DSL" or "Growth Mindset DSL" or "Skills and Goals DSL"
+- Instance of DSL can be saved and shared as JSON (or YAML if human readability is important)
+- DSL makes it simple to share information between providers and consumers of different type or make backups or migrate to other service
+
 ### Code editing
 
 - Visual Studio Code
